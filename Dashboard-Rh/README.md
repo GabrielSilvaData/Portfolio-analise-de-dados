@@ -1,42 +1,51 @@
-# 📊 Portfólio de Análise de Dados
+# 👥 Dashboard de RH | Análise de Turnover
 
-Bem-vindo ao meu portfólio de projetos de Análise de Dados!
+## 📌 Sobre o Projeto
 
-Neste repositório apresento projetos desenvolvidos com Power BI, SQL, Python e Excel, simulando desafios reais encontrados em empresas.
+Este projeto consiste em um dashboard desenvolvido no Power BI para análise de indicadores de Recursos Humanos, com foco no acompanhamento da taxa de turnover. O objetivo é fornecer uma visão estratégica sobre a movimentação de colaboradores, permitindo identificar padrões de desligamento e apoiar a tomada de decisões.
 
-## 🚀 Tecnologias
+A análise foi realizada utilizando a base de dados **IBM HR Analytics Employee Attrition**, amplamente utilizada para estudos e projetos de People Analytics.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
 
 - Power BI
-- SQL
-- Python
-- Excel
 - Power Query
 - DAX
-- Pandas
-- Matplotlib
+- Microsoft Excel
 
-## 📁 Projetos
+---
 
-### 📈 Dashboard de Vendas
-Análise de faturamento, lucro, ticket médio, categorias, produtos e desempenho por região.
+## 📊 Indicadores Analisados
 
-### 👥 Dashboard de RH
-Análise de turnover, admissões, demissões, departamentos e indicadores de Recursos Humanos.
+- Total de Funcionários
+- Funcionários Ativos
+- Funcionários Desligados
+- Taxa de Turnover
+- Salário Médio
+- Tempo Médio de Empresa
+- Distribuição por Departamento
+- Distribuição por Cargo
+- Escolaridade
+- Faixa Etária
+- Gênero
 
-### 🛒 Dashboard de E-commerce
-Análise de vendas utilizando dados da Olist, incluindo pedidos, clientes, fretes e avaliações.
+---
 
-### 💰 Dashboard Financeiro
-Acompanhamento de receitas, despesas, fluxo de caixa e orçamento.
+## 🎯 Objetivo
 
-### 📢 Dashboard de Marketing
-Análise de campanhas, ROI, conversões e canais de aquisição.
+Desenvolver um dashboard interativo para monitorar indicadores de Recursos Humanos, identificar fatores relacionados ao turnover e facilitar a análise do perfil dos colaboradores por meio de visualizações intuitivas.
 
-### 🗄️ SQL para Negócios
-Consultas SQL com JOINs, CTEs, Window Functions e indicadores de negócio.
+---
 
-### 🐍 Python para Análise de Dados
-Limpeza, tratamento e análise exploratória utilizando Pandas e Matplotlib.
+## 📷 Dashboard
 
-### 🔄 Projeto End-to-End
-Pipeline completo de dados: Python → SQL → Power BI.
+> *As imagens do dashboard serão adicionadas após a conclusão do projeto.*
+
+---
+
+## 📂 Base de Dados
+
+- **Dataset:** IBM HR Analytics Employee Attrition & Performance
+- **Total de registros:** 1.470 colaboradores
